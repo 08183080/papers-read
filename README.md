@@ -82,7 +82,9 @@
   - [x] [How] 底部实现 回溯, 贪心, 懒惰, 占有
   - [x] [Detail] 想要匹配字母/数字, ok, 想要匹配多少个, ok上量词?+*, 位置关系匹配ok, 有前瞻, 后顾hh
   - [x] [Practice]实践出真知
-- [ ] Ken Thompson Biograph 
+- [ ] Ken Thompson Biograph
+- [ ] 乔布斯传
+  - [ ] 把每一天当做生命中的最后一天，你就会轻松自在 
 ## English learning
 ## Self thinking
 - [ ] 【言多必失】关注自己的嘴巴, 感觉很多时候我还是不容易控制自己滔滔不绝的舌头, 大病

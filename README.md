@@ -81,7 +81,8 @@
   - [x] [What] RE就是一种字符串模版, 用于在文本中查找, 匹配, 替换, 统计
   - [x] [How] 底部实现 回溯, 贪心, 懒惰, 占有
   - [x] [Detail] 想要匹配字母/数字, ok, 想要匹配多少个, ok上量词?+*, 位置关系匹配ok, 有前瞻, 后顾hh
-  - [x] [Practice]实践出真知    
+  - [x] [Practice]实践出真知
+- [ ] Ken Thompson Biograph 
 ## English learning
 ## Self thinking
 - [ ] 【言多必失】关注自己的嘴巴, 感觉很多时候我还是不容易控制自己滔滔不绝的舌头, 大病

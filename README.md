@@ -89,7 +89,7 @@
   - [ ] 28岁还在寻找机会, 很狡猾聪明机智, 2023陆家嘴读书会的时候现场翻阅的这本书
   - [ ] 可以去看看【戴笠传】  
 ## Films 2024 see
-- [ ] Darkest (至暗时刻), English film
+- [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
 ## English learning
 ## Self thinking
 - [ ] 【言多必失】关注自己的嘴巴, 感觉很多时候我还是不容易控制自己滔滔不绝的舌头, 大病

@@ -100,7 +100,7 @@
   - [ ] 放下期待，重新出发。  
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
-- [ ] 模仿游戏 (The Imitation Game ), Turing
+- [x] 模仿游戏 (The Imitation Game ), Turing, 伟大的图灵， Will machine be graeter than human being?
 ## English learning
 ## Self thinking
 - [ ] 【言多必失】关注自己的嘴巴, 感觉很多时候我还是不容易控制自己滔滔不绝的舌头, 大病
@@ -112,5 +112,7 @@
 - [ ] 【世界】工作的话争取进入华为/字节的国外部门出海 or 外企出海
 ## Everyday is the last day
 ### 每天都是最后一天
+- [ ] 2024/1/4 台积电副总经理车祸去世.
 - [ ] 2024/1/5 山东一个大四学生走在路上, 被从天而降的冰锥砸死, 画上句号.
 - [ ] 每天都是最后一天, 请成为自己.
+- [ ] 现在欧亚大陆上的战火纷飞, 纷纷色色无辜平民去世...

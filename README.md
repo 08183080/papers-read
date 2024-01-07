@@ -97,7 +97,8 @@
   - [ ] 【监狱 岁月】希特勒在狱中也没有忘记自己的职责，通过他努力，监狱中大部分的工作人员都被他争取到国家社会主义这个阵容中来了，最后典狱长还特别允许希特勒可以把房间中的灯光亮到午夜以后。
 - [x] 人生每一步都算数
   - [ ] 清风何处不旧家
-  - [ ] 放下期待，重新出发。  
+  - [ ] 放下期待，重新出发。
+  - [ ] 不要让自己太早成功，大器晚成.
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
 - [x] 模仿游戏 (The Imitation Game ), Turing, 伟大的图灵， Will machine be graeter than human being?

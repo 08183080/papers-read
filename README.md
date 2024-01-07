@@ -100,6 +100,7 @@
   - [ ] 放下期待，重新出发。  
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
+- [ ] 模仿游戏 (The Imitation Game ), Turing
 ## English learning
 ## Self thinking
 - [ ] 【言多必失】关注自己的嘴巴, 感觉很多时候我还是不容易控制自己滔滔不绝的舌头, 大病

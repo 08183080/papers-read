@@ -101,7 +101,8 @@
   - [ ] 不要让自己太早成功，大器晚成.
   - [ ] 龙泉寺, 也不清净, 唯有自身才是净土.
 - [ ] Prof-Dermot Turing (Dermot Turing教授) English, zlibrary
-- [x] Unix传奇: 历史与会议: 太牛逼了, bell lab 
+- [x] Unix传奇: 历史与会议
+  - [ ] 太牛逼了, Bell lab 
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
 - [x] 模仿游戏 (The Imitation Game ), Turing, 伟大的图灵， Will machine be graeter than human being?

@@ -115,7 +115,7 @@
 - [x] 李光耀观世界
 - [x] 拿破仑传
   - [ ] 豪情万千, 我很match
-  - [ ] 笔记的link:
+  - [ ] 笔记的link:\
   ![image](https://github.com/08183080/papers-read/assets/51738561/8b85927d-3733-4df9-9322-11ecb1ffa05b)
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...

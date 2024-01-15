@@ -117,9 +117,13 @@
   - [ ] 豪情万千, 我很match
   - [ ] 笔记的link:\
   ![image](https://github.com/08183080/papers-read/assets/51738561/8b85927d-3733-4df9-9322-11ecb1ffa05b)
+- [x] 区块链+人工智能 下一个改变世界的经济新模式 (Blockchain+AI Unveiling the Future Economy)
+  - [ ] 适逢其会, 刚参加完【2024中国Move】大会, 翻阅完这本书
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
 - [x] 模仿游戏 (The Imitation Game ), Turing, 伟大的图灵， Will machine be graeter than human being?
+- [x] 熔炉, 我们一路奋战, 不是为了改变世界, 而是为了不被世界改变
+- [ ] 社交网络
 ## English learning
 ## Self thinking
 - [ ] 【言多必失】关注自己的嘴巴, 感觉很多时候我还是不容易控制自己滔滔不绝的舌头, 大病
@@ -150,3 +154,4 @@
 - [ ] 刘强东, 2018年因美国强奸罪被捕, 开始低调
 - [ ] 每天都是最后一天, 不需要怕, 不需要怂任何人, 关键但是要有谋略
 - [ ] 我迄今为止有了三次大失败, 再来更多的失败吧
+- [ ] 宗庆后, 36岁之前全在沉淀, 36岁开始起家

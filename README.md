@@ -119,6 +119,11 @@
   ![image](https://github.com/08183080/papers-read/assets/51738561/8b85927d-3733-4df9-9322-11ecb1ffa05b)
 - [x] 区块链+人工智能 下一个改变世界的经济新模式 (Blockchain+AI Unveiling the Future Economy)
   - [ ] 适逢其会, 刚参加完【2024中国Move】大会, 翻阅完这本书
+- [x] 宗庆后传奇
+  - [ ] 大器晚成, 35岁之后才开始成家, 42岁才开始立业, 之后鹏飞龙跃
+  - [ ] 宗庆后放下手中的书，回答道：“快36岁了。”
+  - [ ] 那时的宗庆后和当时所有下乡的知青一样，做着各种繁重的体力活，同时也怀着许多的梦想。他梦想着出人头地、飞黄腾达，但是宗庆后是被幸运之神遗忘的孩子，他在乡下一待就是15年，而在这15年间，宗庆后唯一打发时间、逃避现实生活的途径就是看书。
+  - [ ] 勤奋和坚持比冒险精神更重要。  
 ## Films 2024 see
 - [x] Darkest (至暗时刻), English film, 丘吉尔, the time is ripe(成熟的)...
 - [x] 模仿游戏 (The Imitation Game ), Turing, 伟大的图灵， Will machine be graeter than human being?
